@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hey%2C%20I'm%20[Santosh raj]%20👋&fontSize=40&fontColor=e94560&fontAlignY=38&desc=Data%20Analyst%20%7C%20MCA%20Student%20%7C%20Turning%20Data%20into%20Decisions&descAlignY=58&descSize=16&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hey%2C%20I'm%20[Santosh-raj]%20👋&fontSize=40&fontColor=e94560&fontAlignY=38&desc=Data%20Analyst%20%7C%20MCA%20Student%20%7C%20Turning%20Data%20into%20Decisions&descAlignY=58&descSize=16&descColor=a8b2d8" />
 
 </div>
 
