@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hey%2C%20I'm%20[Your%20Name]%20👋&fontSize=40&fontColor=e94560&fontAlignY=38&desc=Data%20Analyst%20%7C%20MCA%20Student%20%7C%20Turning%20Data%20into%20Decisions&descAlignY=58&descSize=16&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hey%2C%20I'm%20[Santosh raj]%20👋&fontSize=40&fontColor=e94560&fontAlignY=38&desc=Data%20Analyst%20%7C%20MCA%20Student%20%7C%20Turning%20Data%20into%20Decisions&descAlignY=58&descSize=16&descColor=a8b2d8" />
 
 </div>
 
@@ -108,8 +108,8 @@ analyst = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshraj12891@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/https://santoshraj143)
 
 </div>
 
