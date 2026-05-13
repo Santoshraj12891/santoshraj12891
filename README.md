@@ -12,7 +12,7 @@
 
 ```python
 analyst = {
-    "name"       : "[Santosh raj]",
+    "name"       : "Santosh raj",
     "role"       : "Aspiring Data Analyst",
     "education"  : "MCA @ DSPMU, Ranchi",
     "location"   : "📍 Ranchi, Jharkhand, India",
